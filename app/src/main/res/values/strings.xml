@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FinialNumTwo</string>
+    <string name="goalsBtn">Goals</string>
+    <string name="addBtn">Add</string>
+    <string name="homeBtn">Home</string>
+    <string name="goal_hint">10000</string>
+    <string name="wrkout_hint">15</string>
+    <string name="add_workout_text">Add mins to your workout below:</string>
+    <string name="add_step_goal_text">Please set a step goal with one of the options below:</string>
+    <string name="add_workout_goal_text">Please set a workout goal:</string>
+    <string name="welcome_text">Welcome to the Fitness App</string>
+    <string name="welcome_info_text">Stay on this screen to rack up more steps then hit the button to record them</string>
+    <string name="set_goals_btn">Set Goals</string>
+    <string name="recordwrkBtn">Record Workout</string>
+    <string name="stepsmade">Steps Accumulated:</string>
+    <string name="recordStepsBtn">Record Steps</string>
+
+    <string-array name="step_choices">
+        <item> 5000 </item>
+        <item> 10000 </item>
+        <item> 15000 </item>
+        <item> 20000 </item>
+    </string-array>
+
+    <string-array name="workout_choices">
+        <item> 15mins </item>
+        <item> 30mins </item>
+        <item> 45mins </item>
+        <item> 60mins </item>
+    </string-array>
+
+    <string name="curSteps">Current Steps</string>
+    <string name="justSteps"></string>
+    <string name="goalSteps">Step Goal:</string>
+    <string name="goalStepsDisplay"></string>
+
+    <string name="curWorkout">Current Workout Time</string>
+    <string name="justWorkout"></string>
+    <string name="goalWorkout">Workout Goal:</string>
+    <string name="goalWorkoutDisplay"></string>
+    <string name="goalsTitle">Goals</string>
+    <string name="Steps">0 Steps</string>
+    <string name="caloriestxt">Calories burned from walking</string>
+    <string name="cal"></string>
+
+
+
+</resources>
